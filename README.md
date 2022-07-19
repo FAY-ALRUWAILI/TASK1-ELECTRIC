@@ -13,5 +13,11 @@ Resistor
 Breadboard
 
 
-link of Simulation
+link of Simulation (Brushless Motor)
 https://www.tinkercad.com/things/46bE7tU8TYd
+
+
+link of Simulation (SERVOMOTOR)
+https://www.tinkercad.com/things/3ZP3ut2ecEK
+
+
